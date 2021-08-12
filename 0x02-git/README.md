@@ -1,1 +1,0 @@
-mastering the skill to use Git
